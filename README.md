@@ -4,4 +4,4 @@ AI Researcher & Developer and Geospatial Data overseeing work in EDGE Artificial
 
 I am passionate about data and believe in AI's power to improve people's lives. I want to transfer my passion to others and my goals that represent help for people in business and humanity.
 
-### You can find my project and previous work here:
+### You can find my project and previous work here: https://github.com/MohsenMostafa1/My-Portofolio
