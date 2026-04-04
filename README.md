@@ -33,7 +33,7 @@ Defining AI research roadmap for computer vision + generative AI, bridging PoC t
 
 Independent, not peer-reviewed — fully reproducible
 
-→ GitHub Papers
+→ [GitHub Papers](https://github.com/MohsenMostafa1/papers)
 
 I’m passionate about turning AI into a collaborative co-pilot — explainable, adaptive, and human‑augmenting.
 
