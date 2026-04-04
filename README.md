@@ -15,6 +15,7 @@ I bridge research and engineering to build AI that is robust, uncertainty-aware,
 🤖 LLMs & multimodal agents – Falcon, DeepSeek, CLIP, token streaming, RAG
 
 Since December 2025, I’ve been conducting independent research on robust deep learning under computational constraints (free cloud GPUs) — all code and preprints open-sourced.
+
 🔬 Current focus
 
 Uncertainty-aware normalization (Bayesian R‑LayerNorm)
@@ -27,10 +28,13 @@ Physics‑informed rejection classifiers (UA‑PBR)
 
 Sep 2024 – Present
 Defining AI research roadmap for computer vision + generative AI, bridging PoC to production, mentoring cross-functional teams.
+
 📄 Preprints (2025–2026)
 
 Independent, not peer-reviewed — fully reproducible
+
 → GitHub Papers
 
 I’m passionate about turning AI into a collaborative co-pilot — explainable, adaptive, and human‑augmenting.
+
 Explore my work: Portfolio
