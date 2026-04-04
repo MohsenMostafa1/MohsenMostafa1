@@ -6,22 +6,22 @@
 
 I bridge research and engineering to build AI that is robust, uncertainty-aware, and deployable. My work spans:
 
-    🎯 Measurable impact – 19% accuracy gain, 30% latency reduction, 3× inference speedup
+ 🎯 Measurable impact – 19% accuracy gain, 30% latency reduction, 3× inference speedup
 
-    🧠 Uncertainty-aware deep learning – Bayesian normalization, curvature-aware optimizers, physics-informed rejection
+ 🧠 Uncertainty-aware deep learning – Bayesian normalization, curvature-aware optimizers, physics-informed rejection
 
-    🚀 Production-ready systems – FastAPI, Docker, TensorRT, ONNX, MLOps (GCP Vertex AI, Prometheus)
+🚀 Production-ready systems – FastAPI, Docker, TensorRT, ONNX, MLOps (GCP Vertex AI, Prometheus)
 
-    🤖 LLMs & multimodal agents – Falcon, DeepSeek, CLIP, token streaming, RAG
+🤖 LLMs & multimodal agents – Falcon, DeepSeek, CLIP, token streaming, RAG
 
 Since December 2025, I’ve been conducting independent research on robust deep learning under computational constraints (free cloud GPUs) — all code and preprints open-sourced.
 🔬 Current focus
 
-    Uncertainty-aware normalization (Bayesian R‑LayerNorm)
+Uncertainty-aware normalization (Bayesian R‑LayerNorm)
 
-    Curvature-aware optimization for scientific ML (EPANG‑Gen)
+Curvature-aware optimization for scientific ML (EPANG‑Gen)
 
-    Physics‑informed rejection classifiers (UA‑PBR)
+Physics‑informed rejection classifiers (UA‑PBR)
 
 💼 AI Lead @ GraviLog (Remote, USA/UAE)
 
