@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Mohsen Mostafa
 
-### AI Research Engineer | Independent Researcher
+### AI Lead | Researcher
 
-*6+ years building production-grade ML systems — computer vision, LLMs, scientific ML*
+*7+ years building production-grade ML systems — computer vision, LLMs, scientific ML*
 
 I bridge research and engineering to build AI that is robust, uncertainty-aware, and deployable. My work spans:
 
