@@ -37,4 +37,6 @@ Independent, not peer-reviewed — fully reproducible
 
 I’m passionate about turning AI into a collaborative co-pilot — explainable, adaptive, and human‑augmenting.
 
-Explore my work: [Portfolio](https://github.com/MohsenMostafa1)
+Explore my work: [Portfolio](https://github.com/MohsenMostafa1) 
+[Blog](https://mohsenblog.com/) 
+[Resume](https://github.com/MohsenMostafa1/Resume)
